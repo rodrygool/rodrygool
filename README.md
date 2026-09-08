@@ -2,35 +2,35 @@
 
 ### Junior Software Developer from Portugal 🇵🇹
 
-I enjoy building reliable and well-structured web applications, with a particular interest in full-stack development, software architecture and creating products that solve real problems.
+I build reliable and well-structured web applications, with a particular interest in full-stack development, software architecture and creating products that solve real problems.
 
 ## 👨‍💻 About me
 
+- 💻 Junior Software Developer based in Portugal
 - 🎓 Background in **IT Systems**
-- ⚛️ Building applications with **React, TypeScript and JavaScript**
+- ⚛️ Building web applications with **React, TypeScript and JavaScript**
 - 🗄️ Working with **PostgreSQL, SQL and Supabase**
 - 🧪 Interested in **software architecture, testing and reliable backend systems**
-- 🌱 Continuously improving my full-stack development skills
 - 💼 Open to **Junior Software Developer, Full-Stack and Web Development opportunities**
 
 ## ⭐ Featured Project
 
 ### [SaberDivertido — Portfolio Edition](https://github.com/rodrygool/SaberDivertido-Portfolio)
 
-A full-stack educational platform designed for children and families, with separate experiences for children and parents.
+A full-stack educational platform for children aged 6–12, built around separate child and parent experiences, reliable session persistence and responsible learning design.
 
-Built with **React, TypeScript, Supabase, PostgreSQL and Playwright**.
+**React · TypeScript · Supabase · PostgreSQL · Playwright**
 
-Some of the engineering work includes:
+Engineering highlights:
 
-- Multi-app frontend architecture
-- Transactional session persistence
-- Idempotency and revision handling
-- Offline session recovery
-- Authentication and Row Level Security
+- Multi-app React/TypeScript architecture
+- PostgreSQL/Supabase with Auth and Row Level Security
+- Transactional persistence, idempotency and offline recovery
 - Automated logic, E2E, SQL and concurrency testing
 
 > SaberDivertido started as my final vocational IT project (PAP) and was subsequently evolved and refactored beyond its original academic scope.
+
+[**View the project →**](https://github.com/rodrygool/SaberDivertido-Portfolio)
 
 ## 🛠️ Technologies
 
@@ -52,7 +52,7 @@ Some of the engineering work includes:
 
 ## 🎯 Currently
 
-I'm focused on strengthening my software engineering skills, expanding my portfolio and looking for an opportunity to begin my professional career as a **Junior Software Developer**.
+I'm currently looking for an opportunity to start my professional career as a **Junior Software Developer**, with a particular interest in **full-stack and web development**.
 
 ## 🤝 Connect with me
 
