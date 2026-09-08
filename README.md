@@ -63,4 +63,4 @@ I'm currently looking for an opportunity to begin my professional career as a **
 
 ## 🤝 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-coelho42/) · [SaberDivertido Portfolio](https://github.com/rodrygool/SaberDivertido-Portfolio)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-coelho42/)
