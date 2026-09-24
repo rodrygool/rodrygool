@@ -59,7 +59,7 @@ My experience includes working with **Next.js, React, TypeScript, Node.js and Po
 
 ## 🎯 Currently
 
-I'm currently looking for an opportunity as a Junior Software Developer, with a strong interest in frontend development with React and TypeScript, while continuing to grow across the full stack**.
+I'm currently looking for an opportunity as a Junior Software Developer, with a strong interest in frontend development with React and TypeScript, while continuing to grow across the full stack.
 
 ## 🤝 Connect with me
 
