@@ -1,6 +1,6 @@
 # Hi, I'm Rodrigo Coelho 👋
 
-### Software Engineer — Full-Stack from Portugal 🇵🇹
+### Junior Software Engineer — Full-Stack from Portugal 🇵🇹
 
 I build web applications across frontend and backend, with a particular interest in full-stack development, software architecture and creating reliable, well-structured software.
 
@@ -59,7 +59,7 @@ My experience includes working with **Next.js, React, TypeScript, Node.js and Po
 
 ## 🎯 Currently
 
-I'm currently looking for an opportunity as a Software Engineer — Full-Stac, with a strong interest in frontend development with React and TypeScript, while continuing to grow across the full stack.
+I'm currently looking for an opportunity as a Junior Software Engineer — Full-Stac, with a strong interest in frontend development with React and TypeScript, while continuing to grow across the full stack.
 
 ## 🤝 Connect with me
 
